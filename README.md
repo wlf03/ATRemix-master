@@ -1,2 +1,3 @@
-# ARMSearch
-The code of ARMSearch:An Auto-tune Remix Music Retrieval System
+# ATRemix-master
+The features of ATRemix: An Auto-Tune Remix Dataset for Singer Recognition.
+
